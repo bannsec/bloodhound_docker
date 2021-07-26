@@ -15,3 +15,6 @@ Or if you want, build it yourself:
 ```
 sudo docker build -t bloodhound .
 ```
+
+# Login
+Login is set to: neo4j/neo4j
